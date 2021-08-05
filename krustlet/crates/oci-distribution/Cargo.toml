@@ -2,19 +2,12 @@
 name = "oci-distribution"
 version = "0.6.0"
 authors = [
-    "Matt Butcher <matt.butcher@microsoft.com>",
-    "Matthew Fisher <matt.fisher@microsoft.com>",
-    "Radu Matei <radu.matei@microsoft.com>",
-    "Taylor Thomas <taylor.thomas@microsoft.com>",
-    "Brian Ketelsen <Brian.Ketelsen@microsoft.com>",
-    "Brian Hardock <Brian.Hardock@microsoft.com>",
-    "Ryan Levick <rylevick@microsoft.com>",
-    "Kevin Flansburg <kevin.flansburg@gmail.com>",
+    "Sajay Antony <sajaya@microsoft.com>",
 ]
 edition = "2018"
 license-file = "../../LICENSE"
 description = "An OCI implementation in Rust"
-repository = "https://github.com/deislabs/krustlet"
+repository = "https://github.com/oras-project/oras-rs"
 readme = "README.md"
 keywords = [
     "oci",
